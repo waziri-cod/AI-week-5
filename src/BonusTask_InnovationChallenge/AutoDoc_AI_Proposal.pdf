@@ -1,0 +1,5 @@
+AutoDoc.AI Proposal
+
+Purpose: automated documentation generation.
+Workflow: AST parsing -> summarize with LLM -> render Markdown.
+Impact: saves developer time and improves docs accuracy.

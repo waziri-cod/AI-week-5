@@ -1,0 +1,1 @@
+AI-powered testing platforms (Testim, Mabl) use ML to identify stable selectors, heal tests when UIs change, and prioritize flaky tests. This improves coverage and reduces maintenance compared to manual test creation and upkeep. Results include faster CI feedback and higher confidence in regression suites.
